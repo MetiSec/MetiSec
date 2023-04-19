@@ -1,57 +1,21 @@
-<h1 align="center">Hi 👋, I'm MetiSec</h1>
-<h3 align="center">Interested in hacking and sometimes programming</h3>
+# 💫 About Me:
+- 🔭 I’m currently working on [DNSBruteForce Tool](https://github.com/MetiSec/DNSBruteForce)<br>- 🌱 I’m currently learning **Bash script**<br>- 👯 I’m looking to collaborate on **Pminer tool**<br>- 📝 I regularly write articles on [https://medium.com/@Meti.Sec](https://medium.com/@Meti.Sec)<br>- 💬 Ask me about **Python, Go, Bash**<br>- 📫 How to reach me **immetisec@gmail.com**<br>- ⚡ Fun fact **Python Global Network :)**
 
-<p align="left"> <a href="https://twitter.com/metiisec" target="blank"><img src="https://img.shields.io/twitter/follow/metiisec?logo=twitter&style=for-the-badge" alt="metiisec" /></a> </p>
 
-- 🔭 I’m currently working on [DNSBruteForce Tool](https://github.com/MetiSec/DNSBruteForce)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/snFFpcx9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meti.sec) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@Meti.Sec) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MetiiSec) 
 
-- 🌱 I’m currently learning **Bash script**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MetiSec&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MetiSec&theme=solarized-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MetiSec&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 👯 I’m looking to collaborate on **Pminer tool**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MetiSec&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-- 📝 I regularly write articles on [https://medium.com/@Meti.Sec](https://medium.com/@Meti.Sec)
+---
+[![](https://visitcount.itsvg.in/api?id=MetiSec&icon=0&color=1)](https://visitcount.itsvg.in)
 
-- 💬 Ask me about **Python, Go, Bash**
-
-- 📫 How to reach me **immetisec@gmail.com**
-
-- ⚡ Fun fact **Python Global Network :)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/metiisec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="metiisec" height="30" width="40" /></a>
-<a href="https://instagram.com/meti.sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meti.sec" height="30" width="40" /></a>
-<a href="https://medium.com/@meti.sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@meti.sec" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=metisec&show_icons=true&locale=en&layout=compact" alt="metisec" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=metisec&show_icons=true&locale=en" alt="metisec" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
