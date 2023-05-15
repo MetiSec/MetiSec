@@ -2,7 +2,7 @@
 
 ![https://github.com/ImAyrix/ImAyrix/raw/master/gitartwork.svg](https://github.com/ImAyrix/ImAyrix/raw/master/gitartwork.svg)
 
-- 🔭 I’m currently working on [DNSBruteForce Tool](https://github.com/MetiSec/DNSBruteForce)<br>- 🌱 I’m currently learning **Bash script**<br>- 👯 I’m looking to collaborate on **Pminer tool**<br>- 📝 I regularly write articles on [https://medium.com/@Meti.Sec](https://medium.com/@Meti.Sec)<br>- 💬 Ask me about **Python, Go, Bash**<br>- 📫 How to reach me **immetisec@gmail.com**<br>- ⚡ Fun fact **Python Global Network :)**
+
 
 
 ## 🌐 Socials:
